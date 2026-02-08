@@ -44,14 +44,9 @@ The genre label is used only as the target for training and evaluation and is ne
 
 ```text
 .
-├── StatisticalLearning_PO_SpotifyRecommender.ipynb           # main notebook
-├── StatisticalLearning_PO_SpotifyRecommender_annotated.ipynb # more comments / explanations
-├── Figure 1.png                                              # batch size vs sec/epoch
-├── Figure 2.png                                              # batch size vs test accuracy
-├── Figure 3.png                                              # batch size vs Genre-Hit@10
-├── Figure 4.png                                              # depth × learning rate vs Macro-F1 (heatmap)
-├── Figure 5.png                                              # depth × learning rate vs sec/epoch (heatmap)
-├── spotify_train.csv                                         # local copy of Kaggle CSV (not under version control)
+├── Notebook (code)           
+  └── StatisticalLearning_PO_SpotifyRecommender.ipynb         # main notebook with results and architecture
+├── src                                                       # in progress currently
 └── README.md
 ```
 
