@@ -45,7 +45,7 @@ The genre label is used only as the target for training and evaluation and is ne
 ```text
 .
 ├── Notebook (code)           
-  └── StatisticalLearning_PO_SpotifyRecommender.ipynb         # main notebook with results and architecture
+  └── StatisticalLearning_PO_SpotifyRecommender_final.ipynb   # main notebook with results and architecture
 ├── src                                                       # in progress currently
 └── README.md
 ```
