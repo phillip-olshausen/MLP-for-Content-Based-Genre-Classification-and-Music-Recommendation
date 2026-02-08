@@ -1,7 +1,7 @@
 
 # Spotify Genre Classification and Content-Based Recommendation
 
-This repository contains the code and experiments for an advanced statistical learning project on genre-aware, content-based music recommendation using Spotify track features.
+This repository contains the code and experiments for an advanced statistical learning project on genre-aware, content-based music recommendation using Spotify track features. All code is carried out in a Jupyter Notebook and includes annotations for clarification.
 
 A tabular neural network (multi-layer perceptron with categorical embeddings) is trained to predict the genre of a track, and its penultimate layer is reused as a learned embedding for nearest-neighbour recommendation. The main experimental focus is on the effect of batch size and the interaction between model depth and learning rate.
 
